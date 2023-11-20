@@ -1,1 +1,2 @@
-# cpp-spreadsheet-public
+# cpp-spreadsheet
+Дипломный проект: Электронная таблица
